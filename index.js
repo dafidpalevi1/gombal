@@ -1,3 +1,3 @@
-    alert("Hai Sayang Ku 😘")
-    alert("Aku Kangen Banget Sama Kamu 😘")
-    alert("Semoga Kamu Nggak Bosan Ya Nungguin Aku 😘")
+    alert("Hai Buya Reza Pohan 😆")
+    alert("Dimana Posisi Buya Reza Pohan Sekarang 😆")
+    alert("Apa Pentunjuk Malam Ini 😆")
